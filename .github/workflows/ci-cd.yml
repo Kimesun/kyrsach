@@ -43,6 +43,4 @@ jobs:
 
       - name: Run tests
         run: |
-          # Команды для запуска тестов
-          # Например, если у вас есть тесты в `tests/`
           pytest tests/
